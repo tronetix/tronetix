@@ -1,15 +1,11 @@
-<div align="center">
-
 # 🚀 Tronetix
 ### Digital Excellence Through Innovation
 
 *We build digital experiences that empower businesses with React, Next.js, Odoo CRM, and cutting-edge IT solutions.*
 
 [![Website](https://img.shields.io/badge/Website-tronetix.tech-blue)](https://tronetix.tech)
-[![Email](https://img.shields.io/badge/Email-hello@tronetix.com-red)](mailto:hello@tronetix.com)
-[![Support](https://img.shields.io/badge/Support-support@tronetix.com-green)](mailto:support@tronetix.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-hello@tronetix.tech-red)](mailto:hello@tronetix.tech)
+[![Support](https://img.shields.io/badge/Support-support@tronetix.tech-green)](mailto:support@tronetix.tech)
 
 ---
 
@@ -102,7 +98,7 @@ Comprehensive IT solutions designed to accelerate business growth and digital tr
 
 Whether you need complete digital transformation or specific technical solutions, our team is ready to help achieve your goals.
 
-**📧 Email:** [hello@tronetix.com](mailto:hello@tronetix.tech) | [support@tronetix.com](mailto:support@tronetix.tech)
+**📧 Email:** [hello@tronetix.tech](mailto:hello@tronetix.tech) | [support@tronetix.tech](mailto:support@tronetix.tech)
 
 **🌐 Website:** [tronetix.tech](https://tronetix.tech)
 
@@ -116,7 +112,7 @@ Whether you need complete digital transformation or specific technical solutions
 
 *Let's discuss how we can transform your business with cutting-edge technology solutions.*
 
-[![Contact Us](https://img.shields.io/badge/Contact_Us-Get_Started-blue?style=for-the-badge)](mailto:hello@tronetix.com)
+[![Contact Us](https://img.shields.io/badge/Contact_Us-Get_Started-blue?style=for-the-badge)](mailto:hello@tronetix.tech)
 
 ---
 
