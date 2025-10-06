@@ -102,11 +102,7 @@ Comprehensive IT solutions designed to accelerate business growth and digital tr
 
 Whether you need complete digital transformation or specific technical solutions, our team is ready to help achieve your goals.
 
-**📧 Email:** [hello@tronetix.com](mailto:hello@tronetix.com) | [support@tronetix.com](mailto:support@tronetix.com)
-
-**📱 Phone:** +1 (555) 123-4567 *(Mon-Fri 9AM-6PM EST)*
-
-**🏢 Office:** 123 Tech Street, Innovation District, NY 10001
+**📧 Email:** [hello@tronetix.com](mailto:hello@tronetix.tech) | [support@tronetix.com](mailto:support@tronetix.tech)
 
 **🌐 Website:** [tronetix.tech](https://tronetix.tech)
 
